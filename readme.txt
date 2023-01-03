@@ -13,3 +13,5 @@ I used back-end and front-end technologies to build this website using:
 5- the data base connected to local mongodb server and further in future i'll modify in it to connect to atlas server.
 
 6- i installed mongoose to try to connect to atals server but it has no current use in this application.
+
+7- you will need to re-install node modules before running the application
