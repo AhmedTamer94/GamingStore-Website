@@ -1,0 +1,18 @@
+{
+  "name": "gaming-website",
+  "version": "1.0.0",
+  "description": "first try to a gaming store website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed tamer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.2"
+  }
+}

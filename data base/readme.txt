@@ -1,0 +1,1 @@
+use gameData.json to import data base to your mongodb local server
