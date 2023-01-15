@@ -1,5 +1,7 @@
 this is my first try to clone gaming websites such as steam and epic games.
 
+live demo: https://youtu.be/dVN3aIyQC-I
+
 I used back-end and front-end technologies to build this website using:
 
 1- node.js
